@@ -10,3 +10,6 @@ This repo is where I will post my projects and demos when experimenting with Jav
 
   ### Time-Based Text Animation Experiment
   View Link: https://editor.p5js.org/braydenh563/full/9r9h6J_83
+
+  ### Node Ecosystem Interactive Animation (Work-In-Progress)
+  View Link: https://editor.p5js.org/braydenh563/full/kBas-ftqq
