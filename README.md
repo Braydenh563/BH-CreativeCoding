@@ -1,4 +1,7 @@
 # BH-CreativeCoding
+Code Language: JavaScript
+Code Library: ![P5.js](https://img.shields.io/badge/P5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white)
+
 This repo is where I will post my projects and demos when experimenting with the JavaScript P5.js library. These creative coding experiments aim to expand my creativity when it comes to UI/UX implementation, as well as experience in generative art programming. 
 
 ## My Projects & Demos
