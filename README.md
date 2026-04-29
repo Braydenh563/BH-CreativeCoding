@@ -1,5 +1,5 @@
 # BH-CreativeCoding
-This repo is where I will post my projects and demos when experimenting with JavaScript and P5.js. These crative coding experiments aim to expand my creativity when it comes to UI/UX implementation. 
+This repo is where I will post my projects and demos when experimenting with the JavaScript P5.js library. These creative coding experiments aim to expand my creativity when it comes to UI/UX implementation, as well as experience in generative art programming. 
 
 ## My Projects & Demos
   ### Active Drawing (Integrated Randomness)
