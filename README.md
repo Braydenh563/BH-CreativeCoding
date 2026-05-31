@@ -16,6 +16,8 @@ This repo is where I will post my projects and demos when experimenting with the
   View Link: https://editor.p5js.org/braydenh563/full/9r9h6J_83
 
   ### HELIXLABS - A Microbiome Simulation
-  View Links: 
-    - https://editor.p5js.org/braydenh563/full/kBas-ftqq
-    - https://braydenh563.github.io/HELIXLABS/
+  Live Web Preview: 
+- https://braydenh563.github.io/HELIXLABS/
+  P5.js Web Editor Preview: 
+- https://editor.p5js.org/braydenh563/full/kBas-ftqq
+  
